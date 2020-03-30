@@ -32,5 +32,6 @@
   </li>  
 </ul>
 ## A visual from Mango-DB
+
 ![HotelDB-Mango](https://user-images.githubusercontent.com/45934056/77880847-40f12e80-7266-11ea-9ee1-464f2cb548c7.png)
 
