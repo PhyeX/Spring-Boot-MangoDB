@@ -1,5 +1,4 @@
 # Spring Boot- MangoDB Crud Tutorial
-Coming soon
   
   ### Our Domain Class
   
