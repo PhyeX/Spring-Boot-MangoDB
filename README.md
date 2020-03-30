@@ -8,16 +8,28 @@
 <ul>
   <li>GET
     <ul>
-      <li>/universities</li>
-      <li>/universities/{id}</li>
-      <li>/students</li>
-      <li>/students/{id}</li>
-      <li>/universitystudents/{id}</li>
+      <li>/hotels/all</li>
+      <li>/hotels/{id}</li>
+      <li>/hotels/price/{maxPrice}</li>
+      <li>/hotels/address/{city}</li>
+      <li>/hotels/country/{country}</li>
     </ul>
   </li>
   <li>POST
     <ul>
-      <li>/students</li>
+      <li>/hotels</li>
     </ul>
   </li>
+  <li>PUT
+    <ul>
+      <li>/hotels</li>
+    </ul>
+  </li>
+   <li>DELETE
+    <ul>
+      <li>/hotels/{id}</li>
+    </ul>
+  </li>
+  
+  
 </ul>
